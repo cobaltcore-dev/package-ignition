@@ -1,0 +1,7 @@
+--- a/debian/patches/series 
++++ b/debian/patches/series 
+@@ -1 +1,4 @@
+ debian-changes
++relabeling-need.patch
++convert.patch
++gomodsum.patch

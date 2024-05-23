@@ -1,0 +1,4 @@
+# here be dragons, this is a really hackish way of getting all build deps
+pushd /tmp/tmp*/src
+go mod vendor 
+popd
