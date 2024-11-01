@@ -1,6 +1,2 @@
-detect-selinux.patch
-convert.patch
-gomodsum.patch
-debian-series.patch
 rules.patch
 control.patch
